@@ -1,8 +1,7 @@
 function Home () {
     return <h1>Se você leu isso<br />
-               Da uma risadinha <br />
+               Da uma risadinha 
 
-               TE AMO
     </h1>; 
 }
 
