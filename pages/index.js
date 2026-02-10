@@ -1,6 +1,8 @@
 function Home () {
-    return <h1>Pagina em construção <br />
-               De uma olhada mais tarde
+    return <h1>Se você leu isso<br />
+               Da uma risadinha <br />
+
+               TE AMO
     </h1>; 
 }
 
