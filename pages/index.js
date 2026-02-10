@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Pagina em construção \n
+    return <h1>Pagina em construção <br />
                De uma olhada mais tarde
     </h1>; 
 }
